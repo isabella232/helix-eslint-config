@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/adobe/helix-eslint-config",
   "dependencies": {
-    "eslint-config-airbnb-base": "^14.0.0"
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.4",
